@@ -1,0 +1,313 @@
+rules:
+    10Play:
+      region: AU
+      path: services/10Play.list
+    4GTV:
+      region: TW
+      path: services/4GTV.list
+    7Plus:
+      region: AU
+      path: services/7Plus.list
+    9Now:
+      region: AU
+      path: services/9Now.list
+    ABCIView:
+      region: AU
+      path: services/ABCIView.list
+    AETV:
+      region: US
+      path: services/AETV.list
+    Abema:
+      region: JP
+      path: services/Abema.list
+    AcornTV:
+      region: US
+      path: services/AcornTV.list
+    Anime1:
+      region: HKT
+      path: services/Anime1.list
+    AnimeFesta:
+      region: JP
+      path: services/AnimeFesta.list
+    BBC:
+      region: UK
+      path: services/BBC.list
+    Bahamut:
+      region: HKT
+      path: services/Bahamut.list
+    Bilibili:
+      region: HKT
+      path: services/Bilibili.list
+    BritBox:
+      region: US
+      path: services/BritBox.list
+    CBCGem:
+      region: CA
+      path: services/CBCGem.list
+    CW:
+      region: US
+      path: services/CW.list
+    CanalPlus_DE:
+      region: DE
+      path: parts/CanalPlus/MyCanal.list
+    CanalPlus_FR:
+      region: FR
+      path: parts/CanalPlus/Core.list
+    CatchPlay:
+      region: TW
+      path: services/CatchPlay.list
+    Channel4:
+      region: UK
+      path: services/Channel4.list
+    Channel5:
+      region: UK
+      path: services/Channel5.list
+    Crackle:
+      region: US
+      path: services/Crackle.list
+    Crave:
+      region: CA
+      path: services/Crave.list
+    Crunchyroll:
+      region: US
+      path: services/Crunchyroll.list
+    DAZN:
+      region: JP
+      path: parts/DAZN/CloudFront.list
+    DMM:
+      region: JP_S
+      path: services/DMM.list
+    Dcard:
+      region: TW
+      path: services/Dcard.list
+    DirecTV:
+      region: US
+      path: services/DirecTV.list
+    DiscoveryPlus:
+      region: US
+      path: services/DiscoveryPlus.list
+    Docplay:
+      region: AU
+      path: services/Docplay.list
+    ESPN:
+      region: US
+      path: services/ESPN.list
+    EncoreTVB:
+      region: US
+      path: services/EncoreTVB.list
+    Epix:
+      region: US
+      path: services/Epix.list
+    Eurosport:
+      region: UK
+      path: services/Eurosport.list
+    F1TV:
+      region: US
+      path: services/F1TV.list
+    FOX:
+      region: US
+      path: services/FOX.list
+    FXNow:
+      region: US
+      path: services/FXNow.list
+    FridayVideo:
+      region: TW
+      path: services/FridayVideo.list
+    FuboTV:
+      region: US
+      path: services/FuboTV.list
+    FujiTV:
+      region: JP
+      path: services/FujiTV.list
+    Funimation:
+      region: US
+      path: legacy/Funimation.list
+    GYAO:
+      region: JP
+      path: legacy/GYAO.list
+    HBOGOAsia:
+      region: HKT
+      path: parts/HBOGOAsia/Base.list
+    HBOMax:
+      region: US
+      path: services/HBOMax.list
+    HKDTMB:
+      region: HKT
+      path: services/HKDTMB.list
+    HamiVideo:
+      region: TW
+      path: services/HamiVideo.list
+    HuluJP:
+      region: JP
+      path: services/HuluJP.list
+    HuluUS:
+      region: US
+      path: services/HuluUS.list
+    ITV:
+      region: UK
+      path: services/ITV.list
+    JCOM:
+      region: JP
+      path: services/JCOM.list
+    JapaneseGames:
+      region: JP
+      path: services/JapaneseGames.list
+    Joyn:
+      region: DE
+      path: services/Joyn.list
+    KKTV:
+      region: TW
+      path: services/KKTV.list
+    KaraokeDAM:
+      region: JP
+      path: services/KaraokeDAM.list
+    Kocowa:
+      region: US
+      path: services/Kocowa.list
+    Lemino:
+      region: JP
+      path: services/Lemino.list
+    LiTV:
+      region: TW
+      path: services/LiTV.list
+    LineTV:
+      region: TW
+      path: services/LineTV.list
+    LineToday:
+      region: TW
+      path: services/LineToday.list
+    Melon:
+      region: HKT
+      path: services/Melon.list
+    Molotov:
+      region: DE
+      path: services/Molotov.list
+    Mora:
+      region: JP
+      path: services/Mora.list
+    MusicJP:
+      region: JP
+      path: services/MusicJP.list
+    MyTVSuper:
+      region: HKT
+      path: parts/MyTVSuper/Core.list
+    MyVideo:
+      region: TW
+      path: services/MyVideo.list
+    NBA:
+      region: US
+      path: services/NBA.list
+    NBC:
+      region: US
+      path: services/NBC.list
+    NFL:
+      region: US
+      path: services/NFL.list
+    Niconico:
+      region: JP
+      path: services/Niconico.list
+    Now:
+      region: HKT
+      path: services/Now.list
+    Ofiii:
+      region: TW
+      path: services/Ofiii.list
+    OptusSport:
+      region: AU
+      path: services/OptusSport.list
+    ParamountPlus:
+      region: US
+      path: services/ParamountPlus.list
+    Paravi:
+      region: JP
+      path: services/Paravi.list
+    Peacock:
+      region: US
+      path: services/Peacock.list
+    Philo:
+      region: US
+      path: services/Philo.list
+    PlutoTV:
+      region: US
+      path: services/PlutoTV.list
+    Popcornflix:
+      region: US
+      path: services/Popcornflix.list
+    Radiko:
+      region: JP
+      path: services/Radiko.list
+    RakutenTV:
+      region: UK
+      path: services/RakutenTV.list
+    SBS:
+      region: AU
+      path: services/SBS.list
+    Salto:
+      region: DE
+      path: services/Salto.list
+    Shared:
+      region: CA
+      path: review/Shared.list
+    Showtime:
+      region: US
+      path: services/Showtime.list
+    Shudder:
+      region: US
+      path: services/Shudder.list
+    SkyGo:
+      region: UK
+      path: services/SkyGo.list
+    SkyShowtime:
+      region: UK
+      path: services/SkyShowtime.list
+    SlingTV:
+      region: US
+      path: services/SlingTV.list
+    Stan:
+      region: AU
+      path: services/Stan.list
+    StarPlus:
+      region: US
+      path: services/StarPlus.list
+    Starz:
+      region: US
+      path: services/Starz.list
+    Streamotion:
+      region: AU
+      path: services/Streamotion.list
+    TLCGO:
+      region: US
+      path: services/TLCGO.list
+    TVer:
+      region: JP
+      path: services/TVer.list
+    Telasa:
+      region: JP
+      path: services/Telasa.list
+    TubiTV:
+      region: US
+      path: services/TubiTV.list
+    UNext:
+      region: JP
+      path: services/UNext.list
+    Unclassified_DE:
+      region: DE
+      path: parts/Unclassified/Usercentrics.list
+    Unclassified_JP:
+      region: JP
+      path: subsets/Unclassified/Japanese.list
+    Unclassified_US:
+      region: US
+      path: parts/Unclassified/SharedHosts.list
+    VideoMarket:
+      region: JP
+      path: services/VideoMarket.list
+    ViuTV:
+      region: HKT
+      path: services/ViuTV.list
+    WOWOW:
+      region: JP
+      path: services/WOWOW.list
+    ZDF:
+      region: DE
+      path: services/ZDF.list
