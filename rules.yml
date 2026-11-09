@@ -14,6 +14,9 @@ rules:
     ABCIView:
       region: AU
       path: services/ABCIView.list
+    AI:
+      region: HKT
+      path: services/AI.list
     AETV:
       region: US
       path: services/AETV.list
@@ -86,6 +89,9 @@ rules:
     DiscoveryPlus:
       region: US
       path: services/DiscoveryPlus.list
+    Disney:
+      region: WORLD
+      path: services/Disney.list
     Docplay:
       region: AU
       path: services/Docplay.list
@@ -200,6 +206,9 @@ rules:
     NBC:
       region: US
       path: services/NBC.list
+    Netflix:
+      region: WORLD
+      path: services/Netflix.list
     NFL:
       region: US
       path: services/NFL.list
@@ -311,9 +320,3 @@ rules:
     ZDF:
       region: DE
       path: services/ZDF.list
-    Netflix:
-      region: WORLD
-      path: services/Netflix.list
-    Disney:
-      region: WORLD
-      path: services/Disney.list
