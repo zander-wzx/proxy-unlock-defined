@@ -311,3 +311,9 @@ rules:
     ZDF:
       region: DE
       path: services/ZDF.list
+    Netflix:
+      region: world
+      path: services/Netflix.list
+    Disney:
+      region: world
+      path: services/Disney.list
