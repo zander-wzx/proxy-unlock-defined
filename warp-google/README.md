@@ -21,8 +21,8 @@ Gemini 网页和 AI Studio 由 `+.google.com` 覆盖，分享和 App 唤起分�
 
 ## 与服务清单搭配
 
-- [Google 服务清单](../services/Google.list)提供较小范围的 Google、Gemini 和 YouTube 入口。如果同时加载两份清单，在使用端确认重叠规则的优先级
-- [AI 服务清单](../services/AI.list)包含更具体的 Gemini 企业版后缀，以及 AI Studio、Gemini API 等专用规则。若这些目标需要单独出口，在使用端验证具体规则优先
-- 共享图片、字体、内容托管和证书域名沿用使用端的其他规则。视频 CDN 仅收录 `redirector.googlevideo.com` 精确主机，`mail.google.com` 等子域仍会被 `+.google.com` 覆盖
+- [Google 服务清单](../services/Google.list)统一维护 Google 旗下服务；[AI 服务清单](../services/AI.list)不再单独收录这些服务。两份 Google 清单用途和范围不同，同时加载时应确认使用端的出口与优先级
+- 本清单保留 Google 通用分流；[`warp-youtube`](../warp-youtube/README.md) 以 `+.googlevideo.com` 覆盖视频域名，由面板的「YouTube 后台播放兼容」账户设置控制，不设独立节点开关
+- 共享图片、字体、内容托管和证书域名沿用使用端的其他规则。本清单保留 `redirector.googlevideo.com`，继续按 Google 规则处理；其他视频 CDN 域名由 YouTube 清单维护，`mail.google.com` 等子域仍会被 `+.google.com` 覆盖
 
 直接修改 `domains.list`，保持域名逐行排序。运行 `python3 scripts/check.py` 单独校验该清单的格式和重复项
